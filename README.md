@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanrobin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? You can reach me at san_robin@outlook.com
 
